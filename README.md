@@ -146,8 +146,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [@avinashfeb3](https://github.com/avinashfeb3)
+- LinkedIn: [linkedin.com/in/avinash-singh-59645b237](https://linkedin.com/in/avinash-singh-59645b237)
 
 ---
 
